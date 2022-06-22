@@ -1,0 +1,59 @@
+.container{
+    font-family: 'Josefin Sans', sans-serif;
+}
+#btn-color:hover{
+    border-style: solid;
+    border-color: #2dafa9;
+    color: #2dafa9;
+    background-color: #fff;
+    
+  }
+
+  #btn-color{
+    background-color: #2dafa9;
+    color: aliceblue;
+  }
+  
+  .profile-image-pic{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+  }
+  
+  
+  
+  .cardbody-color{
+    background-color: #ebf2fa;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+
+  #signup{
+      font-weight: 700;
+      color: #2dafa9;
+  }
+
+  #signup a:hover{
+    color: #2dafa9;
+  }
+
+  #emailHelp{
+      font-size: large;
+    }
+
+.nav{
+  justify-content: space-evenly;
+}
+
+.nav-link{
+  color: #2dafa9;
+}
+
+::-webkit-datetime-edit-year-field:not([aria-valuenow]),
+::-webkit-datetime-edit-month-field:not([aria-valuenow]),
+::-webkit-datetime-edit-day-field:not([aria-valuenow]) {
+    color: transparent;
+}
+
